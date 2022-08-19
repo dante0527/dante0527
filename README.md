@@ -1,4 +1,9 @@
-### Hi there 👋
+# Dante Lee
+## Software | Data Analysis | Automation
+Computer Science major with concentration in Data Analysis
+
+* Based in Western Mass
+* Email: dante.j.lee@gmail.com
 
 <!--
 **dante0527/dante0527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
