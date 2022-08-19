@@ -2,8 +2,8 @@
 ## Software | Data Analysis | Automation
 Computer Science major with concentration in Data Analysis
 
-* Based in Western Mass
-* Email: dante.j.lee@gmail.com
+* :round_pushpin: Based in Western Mass
+* :email: Email: dante.j.lee@gmail.com
 
 <!--
 **dante0527/dante0527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
