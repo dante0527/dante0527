@@ -6,7 +6,7 @@ Computer Science major with concentration in Data Analysis
 * :email: Email: dante.j.lee@gmail.com
 * :bulb: Coding Tutorials on my [YouTube](https://www.youtube.com/channel/UCbg7ATaRrLZOsHQOA_RSD2A)
 
-## My Skill Set  
+### Skills  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
