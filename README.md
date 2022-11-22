@@ -39,4 +39,4 @@ Computer Science major with concentration in Data Analysis
 ### Socials
 <p align="left"> <a href="https://www.github.com/dante0527" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dantejlee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCbg7ATaRrLZOsHQOA_RSD2A" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
-## <a href="dante.fun" target="_blank">dante.fun</a>
+## <a href="https://dante.fun" target="_blank">dante.fun</a>
