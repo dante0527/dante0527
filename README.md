@@ -1,5 +1,5 @@
 # <a href="https://dante.fun" target="_blank">Dante Lee</a>
-## Software | Data Analysis/Engineering | Automation
+## Software | Data Science | Automation
 Computer Science major with concentration in Data Analysis
 
 * :round_pushpin: Based in Western Mass
