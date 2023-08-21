@@ -1,6 +1,7 @@
 # <a href="https://dante.fun" target="_blank">Dante Lee</a>
 ## Software | Data Science | Automation
-Computer Science major with concentration in Data Analysis
+Candidate for BS Computer Science with concentration in Data Analysis\
+Applied for MS Computer Science with specialization in Data Science
 
 * :round_pushpin: Based in Western Mass
 * :email: Email: dante.j.lee@gmail.com
