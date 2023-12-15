@@ -1,4 +1,4 @@
-# <a href="https://dante.fun" target="_blank">Dante Lee</a>
+# Dante Lee
 ## Software | Data Science | Automation
 Candidate for BS Computer Science (Concentration: Data Analysis)\
 Applied for MS Computer Science (Specialization: Data Science)
