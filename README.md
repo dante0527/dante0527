@@ -1,5 +1,5 @@
 # Dante Lee
-## Software | Data Science | Automation
+## Data Science/Engineering | Automation
 BS Computer Science (Concentration: Data Analysis)
 
 * :round_pushpin: Based in Western Mass
