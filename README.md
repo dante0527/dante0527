@@ -2,7 +2,7 @@
 ## Data Science/Engineering | Automation
 BS Computer Science (Concentration: Data Analysis)
 
-* :round_pushpin: Based in Western Mass
+* :round_pushpin: Based in New England
 * :email: Email: dante.j.lee@gmail.com
 * :bulb: Coding Tutorials on my [YouTube](https://www.youtube.com/channel/UCbg7ATaRrLZOsHQOA_RSD2A)
 
