@@ -1,5 +1,5 @@
 # Dante Lee
-## Data Science/Engineering | Automation
+## Data Engineering | Automation | Data Science
 BS Computer Science (Concentration: Data Analysis)
 
 * :round_pushpin: Based in New England
